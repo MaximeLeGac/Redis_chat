@@ -1,0 +1,14 @@
+{
+  "name": "my_chat",
+  "version": "0.1.0",
+  "dependencies": {
+		"express": "4.x",
+		"socket.io": "*",
+		"ent": "*",
+		"ioredis": "*"
+  },
+  "author": "LE GAC Maxime",
+  "scripts": { 
+		"start" : "node app.js"
+  }
+}
